@@ -1,4 +1,3 @@
-# rag
 # 🌍 Retrieval-Augmented Generation (RAG) for Climate Tweets  
 
 ## 📖 Project Overview  
