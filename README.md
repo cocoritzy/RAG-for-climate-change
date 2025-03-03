@@ -1,4 +1,30 @@
 # rag
+# 🌍 Retrieval-Augmented Generation (RAG) for Climate Tweets  
+
+## 📖 Project Overview  
+This project implements a **Retrieval-Augmented Generation (RAG) system** using Hugging Face datasets and language models (LLMs).  
+The goal is to build an AI-powered assistant that retrieves relevant **climate change tweets** and generates **context-aware responses**.  
+
+## 🛠 How It Works  
+1. **Retrieve relevant tweets** from the **TweetEval** dataset (stance on climate change).  
+2. **Convert text into vector embeddings** using **Hugging Face Embeddings**.  
+3. **Store embeddings in a vector database (FAISS)** for efficient retrieval.  
+4. **Use a language model (GPT-2)** to generate responses based on retrieved tweets.  
+5. **Deploy a simple user interface** with **Gradio** to interact with the model.  
+
+## 📦 Tech Stack  
+- 🧠 **LLM:** GPT-2 (or any model from Hugging Face)  
+- 📄 **Dataset:** TweetEval (stance_climate subset)  
+- 📊 **Embeddings:** Hugging Face Embeddings  
+- 🔍 **Vector Storage:** FAISS  
+- 🏗 **Framework:** LangChain  
+- 🎨 **UI:** Gradio  
+
+## 🚀 How to Run It  
+### **1️⃣ Install Dependencies**  
+Run the following in your terminal:  
+```bash
+pip install langchain langchain-community faiss-cpu huggingface-hub gradio
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
