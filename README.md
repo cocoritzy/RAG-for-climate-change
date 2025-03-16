@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# rag
+>>>>>>> cr_branch
 # 🌍 Retrieval-Augmented Generation (RAG) for Climate Tweets  
 
 ## 📖 Project Overview  
@@ -25,7 +29,15 @@ Run the following in your terminal:
 ```bash
 pip install langchain langchain-community faiss-cpu huggingface-hub gradio
 
+<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
+    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
+</a>
+
+<<<<<<< HEAD
 ```
+=======
+A short description of the project.
+>>>>>>> cr_branch
 
 ## Project Organization
 
@@ -79,3 +91,7 @@ pip install langchain langchain-community faiss-cpu huggingface-hub gradio
 ```
 
 --------
+<<<<<<< HEAD
+=======
+
+>>>>>>> cr_branch
