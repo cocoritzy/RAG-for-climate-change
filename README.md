@@ -1,6 +1,5 @@
 
 # rag
->>>>>>> cr_branch
 # 🌍 Retrieval-Augmented Generation (RAG) for Climate Tweets  
 
 ## 📖 Project Overview  
