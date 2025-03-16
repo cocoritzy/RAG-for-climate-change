@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # rag
 >>>>>>> cr_branch
 # 🌍 Retrieval-Augmented Generation (RAG) for Climate Tweets  
@@ -91,7 +90,5 @@ A short description of the project.
 ```
 
 --------
-<<<<<<< HEAD
-=======
 
 >>>>>>> cr_branch
